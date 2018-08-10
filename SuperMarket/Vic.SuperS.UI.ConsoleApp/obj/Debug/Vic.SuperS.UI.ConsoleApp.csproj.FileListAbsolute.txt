@@ -1,0 +1,42 @@
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.UI.ConsoleApp\bin\Debug\Vic.SuperS.UI.ConsoleApp.exe.config
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.UI.ConsoleApp\bin\Debug\Vic.SuperS.UI.ConsoleApp.exe
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.UI.ConsoleApp\bin\Debug\Vic.SuperS.UI.ConsoleApp.pdb
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.UI.ConsoleApp\bin\Debug\Vic.SuperS.Data.Model.dll
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.UI.ConsoleApp\bin\Debug\Vic.SuperS.Data.Repository.dll
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.UI.ConsoleApp\bin\Debug\Vic.SuperS.Service.dll
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.UI.ConsoleApp\bin\Debug\Vic.SuperS.Data.Model.pdb
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.UI.ConsoleApp\bin\Debug\Vic.SuperS.Data.Repository.pdb
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.UI.ConsoleApp\bin\Debug\Vic.SuperS.Service.pdb
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.UI.ConsoleApp\obj\Debug\Vic.SuperS.UI.ConsoleApp.csprojAssemblyReference.cache
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.UI.ConsoleApp\obj\Debug\Vic.SuperS.UI.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.UI.ConsoleApp\obj\Debug\Vic.SuperS.UI.ConsoleApp.csproj.CopyComplete
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.UI.ConsoleApp\obj\Debug\Vic.SuperS.UI.ConsoleApp.exe
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.UI.ConsoleApp\obj\Debug\Vic.SuperS.UI.ConsoleApp.pdb
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.UI.ConsoleApp\bin\Debug\Vic.SuperS.UI.ConsoleApp.exe.config
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.UI.ConsoleApp\bin\Debug\Vic.SuperS.UI.ConsoleApp.exe
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.UI.ConsoleApp\bin\Debug\Vic.SuperS.UI.ConsoleApp.pdb
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.UI.ConsoleApp\bin\Debug\Vic.SuperS.Data.Model.dll
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.UI.ConsoleApp\bin\Debug\Vic.SuperS.Data.Repository.dll
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.UI.ConsoleApp\bin\Debug\Vic.SuperS.Service.dll
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.UI.ConsoleApp\bin\Debug\Vic.SuperS.Data.Model.pdb
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.UI.ConsoleApp\bin\Debug\Vic.SuperS.Data.Repository.pdb
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.UI.ConsoleApp\bin\Debug\Vic.SuperS.Service.pdb
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.UI.ConsoleApp\obj\Debug\Vic.SuperS.UI.ConsoleApp.csprojAssemblyReference.cache
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.UI.ConsoleApp\obj\Debug\Vic.SuperS.UI.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.UI.ConsoleApp\obj\Debug\Vic.SuperS.UI.ConsoleApp.csproj.CopyComplete
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.UI.ConsoleApp\obj\Debug\Vic.SuperS.UI.ConsoleApp.exe
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.UI.ConsoleApp\obj\Debug\Vic.SuperS.UI.ConsoleApp.pdb
+C:\C#_Class\GitRepository\superm\Vic.SuperS\Vic.SuperS.UI.ConsoleApp\bin\Debug\Vic.SuperS.UI.ConsoleApp.exe.config
+C:\C#_Class\GitRepository\superm\Vic.SuperS\Vic.SuperS.UI.ConsoleApp\bin\Debug\Vic.SuperS.UI.ConsoleApp.exe
+C:\C#_Class\GitRepository\superm\Vic.SuperS\Vic.SuperS.UI.ConsoleApp\bin\Debug\Vic.SuperS.UI.ConsoleApp.pdb
+C:\C#_Class\GitRepository\superm\Vic.SuperS\Vic.SuperS.UI.ConsoleApp\bin\Debug\Vic.SuperS.Data.Model.dll
+C:\C#_Class\GitRepository\superm\Vic.SuperS\Vic.SuperS.UI.ConsoleApp\bin\Debug\Vic.SuperS.Data.Repository.dll
+C:\C#_Class\GitRepository\superm\Vic.SuperS\Vic.SuperS.UI.ConsoleApp\bin\Debug\Vic.SuperS.Service.dll
+C:\C#_Class\GitRepository\superm\Vic.SuperS\Vic.SuperS.UI.ConsoleApp\bin\Debug\Vic.SuperS.Data.Model.pdb
+C:\C#_Class\GitRepository\superm\Vic.SuperS\Vic.SuperS.UI.ConsoleApp\bin\Debug\Vic.SuperS.Data.Repository.pdb
+C:\C#_Class\GitRepository\superm\Vic.SuperS\Vic.SuperS.UI.ConsoleApp\bin\Debug\Vic.SuperS.Service.pdb
+C:\C#_Class\GitRepository\superm\Vic.SuperS\Vic.SuperS.UI.ConsoleApp\obj\Debug\Vic.SuperS.UI.ConsoleApp.csprojAssemblyReference.cache
+C:\C#_Class\GitRepository\superm\Vic.SuperS\Vic.SuperS.UI.ConsoleApp\obj\Debug\Vic.SuperS.UI.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\C#_Class\GitRepository\superm\Vic.SuperS\Vic.SuperS.UI.ConsoleApp\obj\Debug\Vic.SuperS.UI.ConsoleApp.csproj.CopyComplete
+C:\C#_Class\GitRepository\superm\Vic.SuperS\Vic.SuperS.UI.ConsoleApp\obj\Debug\Vic.SuperS.UI.ConsoleApp.exe
+C:\C#_Class\GitRepository\superm\Vic.SuperS\Vic.SuperS.UI.ConsoleApp\obj\Debug\Vic.SuperS.UI.ConsoleApp.pdb

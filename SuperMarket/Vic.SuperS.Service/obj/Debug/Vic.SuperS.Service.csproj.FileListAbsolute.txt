@@ -1,0 +1,33 @@
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.Service\bin\Debug\Vic.SuperS.Service.dll
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.Service\bin\Debug\Vic.SuperS.Service.pdb
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.Service\bin\Debug\Vic.SuperS.Data.Model.dll
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.Service\bin\Debug\Vic.SuperS.Data.Repository.dll
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.Service\bin\Debug\Vic.SuperS.Data.Model.pdb
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.Service\bin\Debug\Vic.SuperS.Data.Repository.pdb
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.Service\obj\Debug\Vic.SuperS.Service.csprojAssemblyReference.cache
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.Service\obj\Debug\Vic.SuperS.Service.csproj.CoreCompileInputs.cache
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.Service\obj\Debug\Vic.SuperS.Service.csproj.CopyComplete
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.Service\obj\Debug\Vic.SuperS.Service.dll
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.Service\obj\Debug\Vic.SuperS.Service.pdb
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.Service\bin\Debug\Vic.SuperS.Service.dll
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.Service\bin\Debug\Vic.SuperS.Service.pdb
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.Service\bin\Debug\Vic.SuperS.Data.Model.dll
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.Service\bin\Debug\Vic.SuperS.Data.Repository.dll
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.Service\bin\Debug\Vic.SuperS.Data.Model.pdb
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.Service\bin\Debug\Vic.SuperS.Data.Repository.pdb
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.Service\obj\Debug\Vic.SuperS.Service.csprojAssemblyReference.cache
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.Service\obj\Debug\Vic.SuperS.Service.csproj.CoreCompileInputs.cache
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.Service\obj\Debug\Vic.SuperS.Service.csproj.CopyComplete
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.Service\obj\Debug\Vic.SuperS.Service.dll
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.Service\obj\Debug\Vic.SuperS.Service.pdb
+C:\C#_Class\GitRepository\superm\Vic.SuperS\Vic.SuperS.Service\bin\Debug\Vic.SuperS.Service.dll
+C:\C#_Class\GitRepository\superm\Vic.SuperS\Vic.SuperS.Service\bin\Debug\Vic.SuperS.Service.pdb
+C:\C#_Class\GitRepository\superm\Vic.SuperS\Vic.SuperS.Service\bin\Debug\Vic.SuperS.Data.Model.dll
+C:\C#_Class\GitRepository\superm\Vic.SuperS\Vic.SuperS.Service\bin\Debug\Vic.SuperS.Data.Repository.dll
+C:\C#_Class\GitRepository\superm\Vic.SuperS\Vic.SuperS.Service\bin\Debug\Vic.SuperS.Data.Model.pdb
+C:\C#_Class\GitRepository\superm\Vic.SuperS\Vic.SuperS.Service\bin\Debug\Vic.SuperS.Data.Repository.pdb
+C:\C#_Class\GitRepository\superm\Vic.SuperS\Vic.SuperS.Service\obj\Debug\Vic.SuperS.Service.csprojAssemblyReference.cache
+C:\C#_Class\GitRepository\superm\Vic.SuperS\Vic.SuperS.Service\obj\Debug\Vic.SuperS.Service.csproj.CoreCompileInputs.cache
+C:\C#_Class\GitRepository\superm\Vic.SuperS\Vic.SuperS.Service\obj\Debug\Vic.SuperS.Service.csproj.CopyComplete
+C:\C#_Class\GitRepository\superm\Vic.SuperS\Vic.SuperS.Service\obj\Debug\Vic.SuperS.Service.dll
+C:\C#_Class\GitRepository\superm\Vic.SuperS\Vic.SuperS.Service\obj\Debug\Vic.SuperS.Service.pdb

@@ -1,0 +1,9 @@
+C:\C#_Class\20180714\SuperMarket\Vic.SuperS.Data.Repository\bin\Debug\Vic.SuperS.Data.Repository.dll
+C:\C#_Class\20180714\SuperMarket\Vic.SuperS.Data.Repository\bin\Debug\Vic.SuperS.Data.Repository.pdb
+C:\C#_Class\20180714\SuperMarket\Vic.SuperS.Data.Repository\bin\Debug\Vic.SuperS.Data.Model.dll
+C:\C#_Class\20180714\SuperMarket\Vic.SuperS.Data.Repository\bin\Debug\Vic.SuperS.Data.Model.pdb
+C:\C#_Class\20180714\SuperMarket\Vic.SuperS.Data.Repository\obj\Debug\SuperMarket.Data.Repository.csprojAssemblyReference.cache
+C:\C#_Class\20180714\SuperMarket\Vic.SuperS.Data.Repository\obj\Debug\SuperMarket.Data.Repository.csproj.CoreCompileInputs.cache
+C:\C#_Class\20180714\SuperMarket\Vic.SuperS.Data.Repository\obj\Debug\SuperMarket.Data.Repository.csproj.CopyComplete
+C:\C#_Class\20180714\SuperMarket\Vic.SuperS.Data.Repository\obj\Debug\Vic.SuperS.Data.Repository.dll
+C:\C#_Class\20180714\SuperMarket\Vic.SuperS.Data.Repository\obj\Debug\Vic.SuperS.Data.Repository.pdb

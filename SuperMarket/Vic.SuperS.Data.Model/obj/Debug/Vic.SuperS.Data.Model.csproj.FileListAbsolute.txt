@@ -1,0 +1,12 @@
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.Data.Model\bin\Debug\Vic.SuperS.Data.Model.dll
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.Data.Model\bin\Debug\Vic.SuperS.Data.Model.pdb
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.Data.Model\obj\Debug\Vic.SuperS.Data.Model.csprojAssemblyReference.cache
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.Data.Model\obj\Debug\Vic.SuperS.Data.Model.csproj.CoreCompileInputs.cache
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.Data.Model\obj\Debug\Vic.SuperS.Data.Model.dll
+C:\C#_Class\20180714\Vic.SuperS\Vic.SuperS.Data.Model\obj\Debug\Vic.SuperS.Data.Model.pdb
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.Data.Model\bin\Debug\Vic.SuperS.Data.Model.dll
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.Data.Model\bin\Debug\Vic.SuperS.Data.Model.pdb
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.Data.Model\obj\Debug\Vic.SuperS.Data.Model.csprojAssemblyReference.cache
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.Data.Model\obj\Debug\Vic.SuperS.Data.Model.csproj.CoreCompileInputs.cache
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.Data.Model\obj\Debug\Vic.SuperS.Data.Model.dll
+C:\C#_Class\20180714\Vic.SuperS of GuanYu\Vic.SuperS.Data.Model\obj\Debug\Vic.SuperS.Data.Model.pdb
